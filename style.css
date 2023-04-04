@@ -567,23 +567,23 @@
 
 #project1 {
 
-    background-image: url(/image/projects/Project1.png);
+    background-image: url(./image/projects/Project1.png);
 
 }
 
 #project2 {
     margin-left: 120px;
-    background-image: url(/image/projects/Project2.png);
+    background-image: url(./image/projects/Project2.png);
 }
 
 #project3 {
 
-    background-image: url(/image/projects/Project3.png);
+    background-image: url(./image/projects/Project3.png);
 }
 
 #project4 {
     margin-left: 120px;
-    background-image: url(/image/projects/Project4.png);
+    background-image: url(./image/projects/Project4.png);
 }
 
 .skills-container {
